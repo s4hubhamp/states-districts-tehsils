@@ -1,0 +1,2967 @@
+[
+  {
+    "stateCode": "01",
+    "districtCode": "01",
+    "name": "Kupwara"
+  },
+  {
+    "stateCode": "01",
+    "districtCode": "02",
+    "name": "Baramula"
+  },
+  {
+    "stateCode": "01",
+    "districtCode": "03",
+    "name": "Srinagar"
+  },
+  {
+    "stateCode": "01",
+    "districtCode": "04",
+    "name": "Badgam"
+  },
+  {
+    "stateCode": "01",
+    "districtCode": "05",
+    "name": "Pulwama"
+  },
+  {
+    "stateCode": "01",
+    "districtCode": "06",
+    "name": "Anantnag"
+  },
+  {
+    "stateCode": "01",
+    "districtCode": "07",
+    "name": "Leh (Ladakh)"
+  },
+  {
+    "stateCode": "01",
+    "districtCode": "08",
+    "name": "Kargil"
+  },
+  {
+    "stateCode": "01",
+    "districtCode": "09",
+    "name": "Doda"
+  },
+  {
+    "stateCode": "01",
+    "districtCode": "10",
+    "name": "Udhampur"
+  },
+  {
+    "stateCode": "01",
+    "districtCode": "11",
+    "name": "Punch"
+  },
+  {
+    "stateCode": "01",
+    "districtCode": "12",
+    "name": "Rajauri"
+  },
+  {
+    "stateCode": "01",
+    "districtCode": "13",
+    "name": "Jammu"
+  },
+  {
+    "stateCode": "01",
+    "districtCode": "14",
+    "name": "Kathua"
+  },
+  {
+    "stateCode": "02",
+    "districtCode": "01",
+    "name": "Chamba"
+  },
+  {
+    "stateCode": "02",
+    "districtCode": "02",
+    "name": "Kangra"
+  },
+  {
+    "stateCode": "02",
+    "districtCode": "03",
+    "name": "Lahul & Spiti"
+  },
+  {
+    "stateCode": "02",
+    "districtCode": "04",
+    "name": "Kullu"
+  },
+  {
+    "stateCode": "02",
+    "districtCode": "05",
+    "name": "Mandi"
+  },
+  {
+    "stateCode": "02",
+    "districtCode": "06",
+    "name": "Hamirpur"
+  },
+  {
+    "stateCode": "02",
+    "districtCode": "07",
+    "name": "Una"
+  },
+  {
+    "stateCode": "02",
+    "districtCode": "08",
+    "name": "Bilaspur"
+  },
+  {
+    "stateCode": "02",
+    "districtCode": "09",
+    "name": "Solan"
+  },
+  {
+    "stateCode": "02",
+    "districtCode": "10",
+    "name": "Sirmaur"
+  },
+  {
+    "stateCode": "02",
+    "districtCode": "11",
+    "name": "Shimla"
+  },
+  {
+    "stateCode": "02",
+    "districtCode": "12",
+    "name": "Kinnaur"
+  },
+  {
+    "stateCode": "03",
+    "districtCode": "01",
+    "name": "Gurdaspur"
+  },
+  {
+    "stateCode": "03",
+    "districtCode": "02",
+    "name": "Amritsar"
+  },
+  {
+    "stateCode": "03",
+    "districtCode": "03",
+    "name": "Kapurthala"
+  },
+  {
+    "stateCode": "03",
+    "districtCode": "04",
+    "name": "Jalandhar"
+  },
+  {
+    "stateCode": "03",
+    "districtCode": "05",
+    "name": "Hoshiarpur"
+  },
+  {
+    "stateCode": "03",
+    "districtCode": "06",
+    "name": "Nawanshahr *"
+  },
+  {
+    "stateCode": "03",
+    "districtCode": "07",
+    "name": "Rupnagar"
+  },
+  {
+    "stateCode": "03",
+    "districtCode": "08",
+    "name": "Fatehgarh Sahib *"
+  },
+  {
+    "stateCode": "03",
+    "districtCode": "09",
+    "name": "Ludhiana"
+  },
+  {
+    "stateCode": "03",
+    "districtCode": "10",
+    "name": "Moga *"
+  },
+  {
+    "stateCode": "03",
+    "districtCode": "11",
+    "name": "Firozpur"
+  },
+  {
+    "stateCode": "03",
+    "districtCode": "12",
+    "name": "Muktsar *"
+  },
+  {
+    "stateCode": "03",
+    "districtCode": "13",
+    "name": "Faridkot"
+  },
+  {
+    "stateCode": "03",
+    "districtCode": "14",
+    "name": "Bathinda"
+  },
+  {
+    "stateCode": "03",
+    "districtCode": "15",
+    "name": "Mansa *"
+  },
+  {
+    "stateCode": "03",
+    "districtCode": "16",
+    "name": "Sangrur"
+  },
+  {
+    "stateCode": "03",
+    "districtCode": "17",
+    "name": "Patiala"
+  },
+  {
+    "stateCode": "04",
+    "districtCode": "01",
+    "name": "Chandigarh"
+  },
+  {
+    "stateCode": "05",
+    "districtCode": "01",
+    "name": "Uttarkashi"
+  },
+  {
+    "stateCode": "05",
+    "districtCode": "02",
+    "name": "Chamoli"
+  },
+  {
+    "stateCode": "05",
+    "districtCode": "03",
+    "name": "Rudraprayag *"
+  },
+  {
+    "stateCode": "05",
+    "districtCode": "04",
+    "name": "Tehri Garhwal"
+  },
+  {
+    "stateCode": "05",
+    "districtCode": "05",
+    "name": "Dehradun"
+  },
+  {
+    "stateCode": "05",
+    "districtCode": "06",
+    "name": "Garhwal"
+  },
+  {
+    "stateCode": "05",
+    "districtCode": "07",
+    "name": "Pithoragarh"
+  },
+  {
+    "stateCode": "05",
+    "districtCode": "08",
+    "name": "Bageshwar"
+  },
+  {
+    "stateCode": "05",
+    "districtCode": "09",
+    "name": "Almora"
+  },
+  {
+    "stateCode": "05",
+    "districtCode": "10",
+    "name": "Champawat"
+  },
+  {
+    "stateCode": "05",
+    "districtCode": "11",
+    "name": "Nainital"
+  },
+  {
+    "stateCode": "05",
+    "districtCode": "12",
+    "name": "Udham Singh Nagar *"
+  },
+  {
+    "stateCode": "05",
+    "districtCode": "13",
+    "name": "Hardwar"
+  },
+  {
+    "stateCode": "06",
+    "districtCode": "01",
+    "name": "Panchkula *"
+  },
+  {
+    "stateCode": "06",
+    "districtCode": "02",
+    "name": "Ambala"
+  },
+  {
+    "stateCode": "06",
+    "districtCode": "03",
+    "name": "Yamunanagar"
+  },
+  {
+    "stateCode": "06",
+    "districtCode": "04",
+    "name": "Kurukshetra"
+  },
+  {
+    "stateCode": "06",
+    "districtCode": "05",
+    "name": "Kaithal"
+  },
+  {
+    "stateCode": "06",
+    "districtCode": "06",
+    "name": "Karnal"
+  },
+  {
+    "stateCode": "06",
+    "districtCode": "07",
+    "name": "Panipat"
+  },
+  {
+    "stateCode": "06",
+    "districtCode": "08",
+    "name": "Sonipat"
+  },
+  {
+    "stateCode": "06",
+    "districtCode": "09",
+    "name": "Jind"
+  },
+  {
+    "stateCode": "06",
+    "districtCode": "10",
+    "name": "Fatehabad *"
+  },
+  {
+    "stateCode": "06",
+    "districtCode": "11",
+    "name": "Sirsa"
+  },
+  {
+    "stateCode": "06",
+    "districtCode": "12",
+    "name": "Hisar"
+  },
+  {
+    "stateCode": "06",
+    "districtCode": "13",
+    "name": "Bhiwani"
+  },
+  {
+    "stateCode": "06",
+    "districtCode": "14",
+    "name": "Rohtak"
+  },
+  {
+    "stateCode": "06",
+    "districtCode": "15",
+    "name": "Jhajjar *"
+  },
+  {
+    "stateCode": "06",
+    "districtCode": "16",
+    "name": "Mahendragarh"
+  },
+  {
+    "stateCode": "06",
+    "districtCode": "17",
+    "name": "Rewari"
+  },
+  {
+    "stateCode": "06",
+    "districtCode": "18",
+    "name": "Gurgaon"
+  },
+  {
+    "stateCode": "06",
+    "districtCode": "19",
+    "name": "Faridabad"
+  },
+  {
+    "stateCode": "07",
+    "districtCode": "01",
+    "name": "North West   *"
+  },
+  {
+    "stateCode": "07",
+    "districtCode": "02",
+    "name": "North   *"
+  },
+  {
+    "stateCode": "07",
+    "districtCode": "03",
+    "name": "North East   *"
+  },
+  {
+    "stateCode": "07",
+    "districtCode": "04",
+    "name": "East   *"
+  },
+  {
+    "stateCode": "07",
+    "districtCode": "05",
+    "name": "New Delhi"
+  },
+  {
+    "stateCode": "07",
+    "districtCode": "06",
+    "name": "Central  *"
+  },
+  {
+    "stateCode": "07",
+    "districtCode": "07",
+    "name": "West   *"
+  },
+  {
+    "stateCode": "07",
+    "districtCode": "08",
+    "name": "South West   *"
+  },
+  {
+    "stateCode": "07",
+    "districtCode": "09",
+    "name": "South  *"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "01",
+    "name": "Ganganagar"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "02",
+    "name": "Hanumangarh *"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "03",
+    "name": "Bikaner"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "04",
+    "name": "Churu"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "05",
+    "name": "Jhunjhunun"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "06",
+    "name": "Alwar"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "07",
+    "name": "Bharatpur"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "08",
+    "name": "Dhaulpur"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "09",
+    "name": "Karauli *"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "10",
+    "name": "Sawai Madhopur"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "11",
+    "name": "Dausa *"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "12",
+    "name": "Jaipur"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "13",
+    "name": "Sikar"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "14",
+    "name": "Nagaur"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "15",
+    "name": "Jodhpur"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "16",
+    "name": "Jaisalmer"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "17",
+    "name": "Barmer"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "18",
+    "name": "Jalor"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "19",
+    "name": "Sirohi"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "20",
+    "name": "Pali"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "21",
+    "name": "Ajmer"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "22",
+    "name": "Tonk"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "23",
+    "name": "Bundi"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "24",
+    "name": "Bhilwara"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "25",
+    "name": "Rajsamand *"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "26",
+    "name": "Udaipur"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "27",
+    "name": "Dungarpur"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "28",
+    "name": "Banswara"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "29",
+    "name": "Chittaurgarh"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "30",
+    "name": "Kota"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "31",
+    "name": "Baran *"
+  },
+  {
+    "stateCode": "08",
+    "districtCode": "32",
+    "name": "Jhalawar"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "01",
+    "name": "Saharanpur"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "02",
+    "name": "Muzaffarnagar"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "03",
+    "name": "Bijnor"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "04",
+    "name": "Moradabad"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "05",
+    "name": "Rampur"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "06",
+    "name": "Jyotiba Phule Nagar *"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "07",
+    "name": "Meerut"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "08",
+    "name": "Baghpat *"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "09",
+    "name": "Ghaziabad"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "10",
+    "name": "Gautam Buddha Nagar *"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "11",
+    "name": "Bulandshahr"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "12",
+    "name": "Aligarh"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "13",
+    "name": "Hathras *"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "14",
+    "name": "Mathura"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "15",
+    "name": "Agra"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "16",
+    "name": "Firozabad"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "17",
+    "name": "Etah"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "18",
+    "name": "Mainpuri"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "19",
+    "name": "Budaun"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "20",
+    "name": "Bareilly"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "21",
+    "name": "Pilibhit"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "22",
+    "name": "Shahjahanpur"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "23",
+    "name": "Kheri"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "24",
+    "name": "Sitapur"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "25",
+    "name": "Hardoi"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "26",
+    "name": "Unnao"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "27",
+    "name": "Lucknow"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "28",
+    "name": "Rae Bareli"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "29",
+    "name": "Farrukhabad"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "30",
+    "name": "Kannauj *"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "31",
+    "name": "Etawah"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "32",
+    "name": "Auraiya *"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "33",
+    "name": "Kanpur Dehat"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "34",
+    "name": "Kanpur Nagar"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "35",
+    "name": "Jalaun "
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "36",
+    "name": "Jhansi"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "37",
+    "name": "Lalitpur"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "38",
+    "name": "Hamirpur"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "39",
+    "name": "Mahoba *"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "40",
+    "name": "Banda"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "41",
+    "name": "Chitrakoot *"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "42",
+    "name": "Fatehpur"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "43",
+    "name": "Pratapgarh"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "44",
+    "name": "Kaushambi *"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "45",
+    "name": "Allahabad "
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "46",
+    "name": "Barabanki"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "47",
+    "name": "Faizabad"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "48",
+    "name": "Ambedkar Nagar *"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "49",
+    "name": "Sultanpur"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "50",
+    "name": "Bahraich"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "51",
+    "name": "Shrawasti *"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "52",
+    "name": "Balrampur *"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "53",
+    "name": "Gonda"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "54",
+    "name": "Siddharthnagar"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "55",
+    "name": "Basti"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "56",
+    "name": "Sant Kabir Nagar *"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "57",
+    "name": "Maharajganj"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "58",
+    "name": "Gorakhpur"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "59",
+    "name": "Kushinagar *"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "60",
+    "name": "Deoria"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "61",
+    "name": "Azamgarh"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "62",
+    "name": "Mau"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "63",
+    "name": "Ballia"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "64",
+    "name": "Jaunpur"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "65",
+    "name": "Ghazipur"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "66",
+    "name": "Chandauli *"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "67",
+    "name": "Varanasi"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "68",
+    "name": "Sant Ravidas Nagar *"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "69",
+    "name": "Mirzapur"
+  },
+  {
+    "stateCode": "09",
+    "districtCode": "70",
+    "name": "Sonbhadra"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "01",
+    "name": "Pashchim Champaran"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "02",
+    "name": "Purba Champaran"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "03",
+    "name": "Sheohar *"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "04",
+    "name": "Sitamarhi"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "05",
+    "name": "Madhubani"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "06",
+    "name": "Supaul *"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "07",
+    "name": "Araria"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "08",
+    "name": "Kishanganj"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "09",
+    "name": "Purnia"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "10",
+    "name": "Katihar"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "11",
+    "name": "Madhepura"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "12",
+    "name": "Saharsa"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "13",
+    "name": "Darbhanga"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "14",
+    "name": "Muzaffarpur"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "15",
+    "name": "Gopalganj"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "16",
+    "name": "Siwan"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "17",
+    "name": "Saran"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "18",
+    "name": "Vaishali"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "19",
+    "name": "Samastipur"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "20",
+    "name": "Begusarai"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "21",
+    "name": "Khagaria"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "22",
+    "name": "Bhagalpur"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "23",
+    "name": "Banka *"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "24",
+    "name": "Munger"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "25",
+    "name": "Lakhisarai *"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "26",
+    "name": "Sheikhpura *"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "27",
+    "name": "Nalanda"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "28",
+    "name": "Patna"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "29",
+    "name": "Bhojpur"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "30",
+    "name": "Buxar *"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "31",
+    "name": "Kaimur (Bhabua) *"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "32",
+    "name": "Rohtas"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "33",
+    "name": "Jehanabad "
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "34",
+    "name": "Aurangabad"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "35",
+    "name": "Gaya"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "36",
+    "name": "Nawada"
+  },
+  {
+    "stateCode": "10",
+    "districtCode": "37",
+    "name": "Jamui *"
+  },
+  {
+    "stateCode": "11",
+    "districtCode": "01",
+    "name": "North "
+  },
+  {
+    "stateCode": "11",
+    "districtCode": "02",
+    "name": "West"
+  },
+  {
+    "stateCode": "11",
+    "districtCode": "03",
+    "name": "South"
+  },
+  {
+    "stateCode": "11",
+    "districtCode": "04",
+    "name": "East"
+  },
+  {
+    "stateCode": "12",
+    "districtCode": "01",
+    "name": "Tawang"
+  },
+  {
+    "stateCode": "12",
+    "districtCode": "02",
+    "name": "West Kameng"
+  },
+  {
+    "stateCode": "12",
+    "districtCode": "03",
+    "name": "East Kameng"
+  },
+  {
+    "stateCode": "12",
+    "districtCode": "04",
+    "name": "Papum Pare *"
+  },
+  {
+    "stateCode": "12",
+    "districtCode": "05",
+    "name": "Lower Subansiri"
+  },
+  {
+    "stateCode": "12",
+    "districtCode": "06",
+    "name": "Upper Subansiri"
+  },
+  {
+    "stateCode": "12",
+    "districtCode": "07",
+    "name": "West Siang"
+  },
+  {
+    "stateCode": "12",
+    "districtCode": "08",
+    "name": "East Siang"
+  },
+  {
+    "stateCode": "12",
+    "districtCode": "09",
+    "name": "Upper Siang *"
+  },
+  {
+    "stateCode": "12",
+    "districtCode": "10",
+    "name": "Dibang Valley"
+  },
+  {
+    "stateCode": "12",
+    "districtCode": "11",
+    "name": "Lohit"
+  },
+  {
+    "stateCode": "12",
+    "districtCode": "12",
+    "name": "Changlang"
+  },
+  {
+    "stateCode": "12",
+    "districtCode": "13",
+    "name": "Tirap"
+  },
+  {
+    "stateCode": "13",
+    "districtCode": "01",
+    "name": "Mon"
+  },
+  {
+    "stateCode": "13",
+    "districtCode": "02",
+    "name": "Tuensang"
+  },
+  {
+    "stateCode": "13",
+    "districtCode": "03",
+    "name": "Mokokchung"
+  },
+  {
+    "stateCode": "13",
+    "districtCode": "04",
+    "name": "Zunheboto"
+  },
+  {
+    "stateCode": "13",
+    "districtCode": "05",
+    "name": "Wokha"
+  },
+  {
+    "stateCode": "13",
+    "districtCode": "06",
+    "name": "Dimapur *"
+  },
+  {
+    "stateCode": "13",
+    "districtCode": "07",
+    "name": "Kohima"
+  },
+  {
+    "stateCode": "13",
+    "districtCode": "08",
+    "name": "Phek"
+  },
+  {
+    "stateCode": "14",
+    "districtCode": "01",
+    "name": "Senapati"
+  },
+  {
+    "stateCode": "14",
+    "districtCode": "02",
+    "name": "Tamenglong"
+  },
+  {
+    "stateCode": "14",
+    "districtCode": "03",
+    "name": "Churachandpur"
+  },
+  {
+    "stateCode": "14",
+    "districtCode": "04",
+    "name": "Bishnupur"
+  },
+  {
+    "stateCode": "14",
+    "districtCode": "05",
+    "name": "Thoubal"
+  },
+  {
+    "stateCode": "14",
+    "districtCode": "06",
+    "name": "Imphal West"
+  },
+  {
+    "stateCode": "14",
+    "districtCode": "07",
+    "name": "Imphal East *"
+  },
+  {
+    "stateCode": "14",
+    "districtCode": "08",
+    "name": "Ukhrul"
+  },
+  {
+    "stateCode": "14",
+    "districtCode": "09",
+    "name": "Chandel"
+  },
+  {
+    "stateCode": "15",
+    "districtCode": "01",
+    "name": "Mamit *"
+  },
+  {
+    "stateCode": "15",
+    "districtCode": "02",
+    "name": "Kolasib *"
+  },
+  {
+    "stateCode": "15",
+    "districtCode": "03",
+    "name": "Aizawl"
+  },
+  {
+    "stateCode": "15",
+    "districtCode": "04",
+    "name": "Champhai *"
+  },
+  {
+    "stateCode": "15",
+    "districtCode": "05",
+    "name": "Serchhip *"
+  },
+  {
+    "stateCode": "15",
+    "districtCode": "06",
+    "name": "Lunglei"
+  },
+  {
+    "stateCode": "15",
+    "districtCode": "07",
+    "name": "Lawngtlai"
+  },
+  {
+    "stateCode": "15",
+    "districtCode": "08",
+    "name": "Saiha *"
+  },
+  {
+    "stateCode": "16",
+    "districtCode": "01",
+    "name": "West Tripura "
+  },
+  {
+    "stateCode": "16",
+    "districtCode": "02",
+    "name": "South Tripura "
+  },
+  {
+    "stateCode": "16",
+    "districtCode": "03",
+    "name": "Dhalai  *"
+  },
+  {
+    "stateCode": "16",
+    "districtCode": "04",
+    "name": "North Tripura "
+  },
+  {
+    "stateCode": "17",
+    "districtCode": "01",
+    "name": "West Garo Hills"
+  },
+  {
+    "stateCode": "17",
+    "districtCode": "02",
+    "name": "East Garo Hills"
+  },
+  {
+    "stateCode": "17",
+    "districtCode": "03",
+    "name": "South Garo Hills *"
+  },
+  {
+    "stateCode": "17",
+    "districtCode": "04",
+    "name": "West Khasi Hills"
+  },
+  {
+    "stateCode": "17",
+    "districtCode": "05",
+    "name": "Ri Bhoi  *"
+  },
+  {
+    "stateCode": "17",
+    "districtCode": "06",
+    "name": "East Khasi Hills"
+  },
+  {
+    "stateCode": "17",
+    "districtCode": "07",
+    "name": "Jaintia Hills"
+  },
+  {
+    "stateCode": "18",
+    "districtCode": "01",
+    "name": "Kokrajhar"
+  },
+  {
+    "stateCode": "18",
+    "districtCode": "02",
+    "name": "Dhubri"
+  },
+  {
+    "stateCode": "18",
+    "districtCode": "03",
+    "name": "Goalpara"
+  },
+  {
+    "stateCode": "18",
+    "districtCode": "04",
+    "name": "Bongaigaon"
+  },
+  {
+    "stateCode": "18",
+    "districtCode": "05",
+    "name": "Barpeta"
+  },
+  {
+    "stateCode": "18",
+    "districtCode": "06",
+    "name": "Kamrup"
+  },
+  {
+    "stateCode": "18",
+    "districtCode": "07",
+    "name": "Nalbari"
+  },
+  {
+    "stateCode": "18",
+    "districtCode": "08",
+    "name": "Darrang"
+  },
+  {
+    "stateCode": "18",
+    "districtCode": "09",
+    "name": "Marigaon"
+  },
+  {
+    "stateCode": "18",
+    "districtCode": "10",
+    "name": "Nagaon"
+  },
+  {
+    "stateCode": "18",
+    "districtCode": "11",
+    "name": "Sonitpur"
+  },
+  {
+    "stateCode": "18",
+    "districtCode": "12",
+    "name": "Lakhimpur"
+  },
+  {
+    "stateCode": "18",
+    "districtCode": "13",
+    "name": "Dhemaji"
+  },
+  {
+    "stateCode": "18",
+    "districtCode": "14",
+    "name": "Tinsukia"
+  },
+  {
+    "stateCode": "18",
+    "districtCode": "15",
+    "name": "Dibrugarh"
+  },
+  {
+    "stateCode": "18",
+    "districtCode": "16",
+    "name": "Sibsagar"
+  },
+  {
+    "stateCode": "18",
+    "districtCode": "17",
+    "name": "Jorhat"
+  },
+  {
+    "stateCode": "18",
+    "districtCode": "18",
+    "name": "Golaghat"
+  },
+  {
+    "stateCode": "18",
+    "districtCode": "19",
+    "name": "Karbi Anglong"
+  },
+  {
+    "stateCode": "18",
+    "districtCode": "20",
+    "name": "North Cachar Hills"
+  },
+  {
+    "stateCode": "18",
+    "districtCode": "21",
+    "name": "Cachar"
+  },
+  {
+    "stateCode": "18",
+    "districtCode": "22",
+    "name": "Karimganj"
+  },
+  {
+    "stateCode": "18",
+    "districtCode": "23",
+    "name": "Hailakandi"
+  },
+  {
+    "stateCode": "19",
+    "districtCode": "01",
+    "name": "Darjiling "
+  },
+  {
+    "stateCode": "19",
+    "districtCode": "02",
+    "name": "Jalpaiguri "
+  },
+  {
+    "stateCode": "19",
+    "districtCode": "03",
+    "name": "Koch Bihar "
+  },
+  {
+    "stateCode": "19",
+    "districtCode": "04",
+    "name": "Uttar Dinajpur"
+  },
+  {
+    "stateCode": "19",
+    "districtCode": "05",
+    "name": "Dakshin Dinajpur *"
+  },
+  {
+    "stateCode": "19",
+    "districtCode": "06",
+    "name": "Maldah "
+  },
+  {
+    "stateCode": "19",
+    "districtCode": "07",
+    "name": "Murshidabad "
+  },
+  {
+    "stateCode": "19",
+    "districtCode": "08",
+    "name": "Birbhum"
+  },
+  {
+    "stateCode": "19",
+    "districtCode": "09",
+    "name": "Barddhaman "
+  },
+  {
+    "stateCode": "19",
+    "districtCode": "10",
+    "name": "Nadia "
+  },
+  {
+    "stateCode": "19",
+    "districtCode": "11",
+    "name": "North Twenty Four Parganas"
+  },
+  {
+    "stateCode": "19",
+    "districtCode": "12",
+    "name": "Hugli "
+  },
+  {
+    "stateCode": "19",
+    "districtCode": "13",
+    "name": "Bankura "
+  },
+  {
+    "stateCode": "19",
+    "districtCode": "14",
+    "name": "Puruliya"
+  },
+  {
+    "stateCode": "19",
+    "districtCode": "15",
+    "name": "Medinipur "
+  },
+  {
+    "stateCode": "19",
+    "districtCode": "16",
+    "name": "Haora "
+  },
+  {
+    "stateCode": "19",
+    "districtCode": "17",
+    "name": "Kolkata"
+  },
+  {
+    "stateCode": "19",
+    "districtCode": "18",
+    "name": "South  Twenty Four Parganas"
+  },
+  {
+    "stateCode": "20",
+    "districtCode": "01",
+    "name": "Garhwa *"
+  },
+  {
+    "stateCode": "20",
+    "districtCode": "02",
+    "name": "Palamu"
+  },
+  {
+    "stateCode": "20",
+    "districtCode": "03",
+    "name": "Chatra *"
+  },
+  {
+    "stateCode": "20",
+    "districtCode": "04",
+    "name": "Hazaribag"
+  },
+  {
+    "stateCode": "20",
+    "districtCode": "05",
+    "name": "Kodarma *"
+  },
+  {
+    "stateCode": "20",
+    "districtCode": "06",
+    "name": "Giridih"
+  },
+  {
+    "stateCode": "20",
+    "districtCode": "07",
+    "name": "Deoghar"
+  },
+  {
+    "stateCode": "20",
+    "districtCode": "08",
+    "name": "Godda"
+  },
+  {
+    "stateCode": "20",
+    "districtCode": "09",
+    "name": "Sahibganj"
+  },
+  {
+    "stateCode": "20",
+    "districtCode": "10",
+    "name": "Pakaur *"
+  },
+  {
+    "stateCode": "20",
+    "districtCode": "11",
+    "name": "Dumka"
+  },
+  {
+    "stateCode": "20",
+    "districtCode": "12",
+    "name": "Dhanbad"
+  },
+  {
+    "stateCode": "20",
+    "districtCode": "13",
+    "name": "Bokaro *"
+  },
+  {
+    "stateCode": "20",
+    "districtCode": "14",
+    "name": "Ranchi"
+  },
+  {
+    "stateCode": "20",
+    "districtCode": "15",
+    "name": "Lohardaga"
+  },
+  {
+    "stateCode": "20",
+    "districtCode": "16",
+    "name": "Gumla"
+  },
+  {
+    "stateCode": "20",
+    "districtCode": "17",
+    "name": "Pashchimi Singhbhum"
+  },
+  {
+    "stateCode": "20",
+    "districtCode": "18",
+    "name": "Purbi Singhbhum"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "01",
+    "name": "Bargarh  *"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "02",
+    "name": "Jharsuguda  *"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "03",
+    "name": "Sambalpur"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "04",
+    "name": "Debagarh  *"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "05",
+    "name": "Sundargarh"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "06",
+    "name": "Kendujhar"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "07",
+    "name": "Mayurbhanj"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "08",
+    "name": "Baleshwar"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "09",
+    "name": "Bhadrak  *"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "10",
+    "name": "Kendrapara *"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "11",
+    "name": "Jagatsinghapur  *"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "12",
+    "name": "Cuttack"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "13",
+    "name": "Jajapur  *"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "14",
+    "name": "Dhenkanal"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "15",
+    "name": "Anugul  *"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "16",
+    "name": "Nayagarh  *"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "17",
+    "name": "Khordha  *"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "18",
+    "name": "Puri"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "19",
+    "name": "Ganjam"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "20",
+    "name": "Gajapati  *"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "21",
+    "name": "Kandhamal"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "22",
+    "name": "Baudh  *"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "23",
+    "name": "Sonapur  *"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "24",
+    "name": "Balangir"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "25",
+    "name": "Nuapada  *"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "26",
+    "name": "Kalahandi"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "27",
+    "name": "Rayagada  *"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "28",
+    "name": "Nabarangapur  *"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "29",
+    "name": "Koraput"
+  },
+  {
+    "stateCode": "21",
+    "districtCode": "30",
+    "name": "Malkangiri  *"
+  },
+  {
+    "stateCode": "22",
+    "districtCode": "01",
+    "name": "Koriya *"
+  },
+  {
+    "stateCode": "22",
+    "districtCode": "02",
+    "name": "Surguja"
+  },
+  {
+    "stateCode": "22",
+    "districtCode": "03",
+    "name": "Jashpur *"
+  },
+  {
+    "stateCode": "22",
+    "districtCode": "04",
+    "name": "Raigarh"
+  },
+  {
+    "stateCode": "22",
+    "districtCode": "05",
+    "name": "Korba *"
+  },
+  {
+    "stateCode": "22",
+    "districtCode": "06",
+    "name": "Janjgir - Champa*"
+  },
+  {
+    "stateCode": "22",
+    "districtCode": "07",
+    "name": "Bilaspur"
+  },
+  {
+    "stateCode": "22",
+    "districtCode": "08",
+    "name": "Kawardha *"
+  },
+  {
+    "stateCode": "22",
+    "districtCode": "09",
+    "name": "Rajnandgaon"
+  },
+  {
+    "stateCode": "22",
+    "districtCode": "10",
+    "name": "Durg"
+  },
+  {
+    "stateCode": "22",
+    "districtCode": "11",
+    "name": "Raipur"
+  },
+  {
+    "stateCode": "22",
+    "districtCode": "12",
+    "name": "Mahasamund *"
+  },
+  {
+    "stateCode": "22",
+    "districtCode": "13",
+    "name": "Dhamtari *"
+  },
+  {
+    "stateCode": "22",
+    "districtCode": "14",
+    "name": "Kanker *"
+  },
+  {
+    "stateCode": "22",
+    "districtCode": "15",
+    "name": "Bastar"
+  },
+  {
+    "stateCode": "22",
+    "districtCode": "16",
+    "name": "Dantewada*"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "01",
+    "name": "Sheopur *"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "02",
+    "name": "Morena"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "03",
+    "name": "Bhind"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "04",
+    "name": "Gwalior"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "05",
+    "name": "Datia"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "06",
+    "name": "Shivpuri"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "07",
+    "name": "Guna"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "08",
+    "name": "Tikamgarh"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "09",
+    "name": "Chhatarpur"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "10",
+    "name": "Panna"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "11",
+    "name": "Sagar"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "12",
+    "name": "Damoh"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "13",
+    "name": "Satna"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "14",
+    "name": "Rewa"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "15",
+    "name": "Umaria *"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "16",
+    "name": "Shahdol"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "17",
+    "name": "Sidhi"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "18",
+    "name": "Neemuch *"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "19",
+    "name": "Mandsaur"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "20",
+    "name": "Ratlam"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "21",
+    "name": "Ujjain"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "22",
+    "name": "Shajapur"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "23",
+    "name": "Dewas"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "24",
+    "name": "Jhabua"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "25",
+    "name": "Dhar"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "26",
+    "name": "Indore"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "27",
+    "name": "West Nimar"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "28",
+    "name": "Barwani *"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "29",
+    "name": "East Nimar"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "30",
+    "name": "Rajgarh"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "31",
+    "name": "Vidisha"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "32",
+    "name": "Bhopal"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "33",
+    "name": "Sehore"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "34",
+    "name": "Raisen"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "35",
+    "name": "Betul"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "36",
+    "name": "Harda *"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "37",
+    "name": "Hoshangabad"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "38",
+    "name": "Katni *"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "39",
+    "name": "Jabalpur"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "40",
+    "name": "Narsimhapur"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "41",
+    "name": "Dindori *"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "42",
+    "name": "Mandla"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "43",
+    "name": "Chhindwara"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "44",
+    "name": "Seoni"
+  },
+  {
+    "stateCode": "23",
+    "districtCode": "45",
+    "name": "Balaghat"
+  },
+  {
+    "stateCode": "24",
+    "districtCode": "01",
+    "name": "Kachchh"
+  },
+  {
+    "stateCode": "24",
+    "districtCode": "02",
+    "name": "Banas Kantha"
+  },
+  {
+    "stateCode": "24",
+    "districtCode": "03",
+    "name": "Patan  *"
+  },
+  {
+    "stateCode": "24",
+    "districtCode": "04",
+    "name": "Mahesana"
+  },
+  {
+    "stateCode": "24",
+    "districtCode": "05",
+    "name": "Sabar Kantha"
+  },
+  {
+    "stateCode": "24",
+    "districtCode": "06",
+    "name": "Gandhinagar"
+  },
+  {
+    "stateCode": "24",
+    "districtCode": "07",
+    "name": "Ahmadabad"
+  },
+  {
+    "stateCode": "24",
+    "districtCode": "08",
+    "name": "Surendranagar"
+  },
+  {
+    "stateCode": "24",
+    "districtCode": "09",
+    "name": "Rajkot"
+  },
+  {
+    "stateCode": "24",
+    "districtCode": "10",
+    "name": "Jamnagar"
+  },
+  {
+    "stateCode": "24",
+    "districtCode": "11",
+    "name": "Porbandar  *"
+  },
+  {
+    "stateCode": "24",
+    "districtCode": "12",
+    "name": "Junagadh"
+  },
+  {
+    "stateCode": "24",
+    "districtCode": "13",
+    "name": "Amreli"
+  },
+  {
+    "stateCode": "24",
+    "districtCode": "14",
+    "name": "Bhavnagar"
+  },
+  {
+    "stateCode": "24",
+    "districtCode": "15",
+    "name": "Anand  *"
+  },
+  {
+    "stateCode": "24",
+    "districtCode": "16",
+    "name": "Kheda"
+  },
+  {
+    "stateCode": "24",
+    "districtCode": "17",
+    "name": "Panch Mahals"
+  },
+  {
+    "stateCode": "24",
+    "districtCode": "18",
+    "name": "Dohad  *"
+  },
+  {
+    "stateCode": "24",
+    "districtCode": "19",
+    "name": "Vadodara"
+  },
+  {
+    "stateCode": "24",
+    "districtCode": "20",
+    "name": "Narmada  *"
+  },
+  {
+    "stateCode": "24",
+    "districtCode": "21",
+    "name": "Bharuch"
+  },
+  {
+    "stateCode": "24",
+    "districtCode": "22",
+    "name": "Surat"
+  },
+  {
+    "stateCode": "24",
+    "districtCode": "23",
+    "name": "The Dangs"
+  },
+  {
+    "stateCode": "24",
+    "districtCode": "24",
+    "name": "Navsari  *"
+  },
+  {
+    "stateCode": "24",
+    "districtCode": "25",
+    "name": "Valsad"
+  },
+  {
+    "stateCode": "25",
+    "districtCode": "01",
+    "name": "Diu"
+  },
+  {
+    "stateCode": "25",
+    "districtCode": "02",
+    "name": "Daman"
+  },
+  {
+    "stateCode": "26",
+    "districtCode": "01",
+    "name": "Dadra & Nagar Haveli"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "01",
+    "name": "Nandurbar *"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "02",
+    "name": "Dhule"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "03",
+    "name": "Jalgaon"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "04",
+    "name": "Buldana"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "05",
+    "name": "Akola"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "06",
+    "name": "Washim *"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "07",
+    "name": "Amravati"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "08",
+    "name": "Wardha"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "09",
+    "name": "Nagpur"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "10",
+    "name": "Bhandara"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "11",
+    "name": "Gondiya *"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "12",
+    "name": "Gadchiroli"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "13",
+    "name": "Chandrapur"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "14",
+    "name": "Yavatmal"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "15",
+    "name": "Nanded"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "16",
+    "name": "Hingoli *"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "17",
+    "name": "Parbhani"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "18",
+    "name": "Jalna"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "19",
+    "name": "Aurangabad"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "20",
+    "name": "Nashik"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "21",
+    "name": "Thane"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "22",
+    "name": "Mumbai (Suburban) *"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "23",
+    "name": "Mumbai"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "24",
+    "name": "Raigarh"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "25",
+    "name": "Pune"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "26",
+    "name": "Ahmadnagar"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "27",
+    "name": "Bid"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "28",
+    "name": "Latur"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "29",
+    "name": "Osmanabad"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "30",
+    "name": "Solapur"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "31",
+    "name": "Satara"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "32",
+    "name": "Ratnagiri"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "33",
+    "name": "Sindhudurg"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "34",
+    "name": "Kolhapur"
+  },
+  {
+    "stateCode": "27",
+    "districtCode": "35",
+    "name": "Sangli"
+  },
+  {
+    "stateCode": "28",
+    "districtCode": "01",
+    "name": "Adilabad"
+  },
+  {
+    "stateCode": "28",
+    "districtCode": "02",
+    "name": "Nizamabad"
+  },
+  {
+    "stateCode": "28",
+    "districtCode": "03",
+    "name": "Karimnagar"
+  },
+  {
+    "stateCode": "28",
+    "districtCode": "04",
+    "name": "Medak"
+  },
+  {
+    "stateCode": "28",
+    "districtCode": "05",
+    "name": "Hyderabad"
+  },
+  {
+    "stateCode": "28",
+    "districtCode": "06",
+    "name": "Rangareddi"
+  },
+  {
+    "stateCode": "28",
+    "districtCode": "07",
+    "name": "Mahbubnagar"
+  },
+  {
+    "stateCode": "28",
+    "districtCode": "08",
+    "name": "Nalgonda"
+  },
+  {
+    "stateCode": "28",
+    "districtCode": "09",
+    "name": "Warangal"
+  },
+  {
+    "stateCode": "28",
+    "districtCode": "10",
+    "name": "Khammam"
+  },
+  {
+    "stateCode": "28",
+    "districtCode": "11",
+    "name": "Srikakulam"
+  },
+  {
+    "stateCode": "28",
+    "districtCode": "12",
+    "name": "Vizianagaram"
+  },
+  {
+    "stateCode": "28",
+    "districtCode": "13",
+    "name": "Visakhapatnam"
+  },
+  {
+    "stateCode": "28",
+    "districtCode": "14",
+    "name": "East Godavari"
+  },
+  {
+    "stateCode": "28",
+    "districtCode": "15",
+    "name": "West Godavari"
+  },
+  {
+    "stateCode": "28",
+    "districtCode": "16",
+    "name": "Krishna"
+  },
+  {
+    "stateCode": "28",
+    "districtCode": "17",
+    "name": "Guntur"
+  },
+  {
+    "stateCode": "28",
+    "districtCode": "18",
+    "name": "Prakasam"
+  },
+  {
+    "stateCode": "28",
+    "districtCode": "19",
+    "name": "Nellore"
+  },
+  {
+    "stateCode": "28",
+    "districtCode": "20",
+    "name": "Cuddapah"
+  },
+  {
+    "stateCode": "28",
+    "districtCode": "21",
+    "name": "Kurnool"
+  },
+  {
+    "stateCode": "28",
+    "districtCode": "22",
+    "name": "Anantapur"
+  },
+  {
+    "stateCode": "28",
+    "districtCode": "23",
+    "name": "Chittoor"
+  },
+  {
+    "stateCode": "29",
+    "districtCode": "01",
+    "name": "Belgaum"
+  },
+  {
+    "stateCode": "29",
+    "districtCode": "02",
+    "name": "Bagalkot *"
+  },
+  {
+    "stateCode": "29",
+    "districtCode": "03",
+    "name": "Bijapur"
+  },
+  {
+    "stateCode": "29",
+    "districtCode": "04",
+    "name": "Gulbarga"
+  },
+  {
+    "stateCode": "29",
+    "districtCode": "05",
+    "name": "Bidar"
+  },
+  {
+    "stateCode": "29",
+    "districtCode": "06",
+    "name": "Raichur"
+  },
+  {
+    "stateCode": "29",
+    "districtCode": "07",
+    "name": "Koppal *"
+  },
+  {
+    "stateCode": "29",
+    "districtCode": "08",
+    "name": "Gadag *"
+  },
+  {
+    "stateCode": "29",
+    "districtCode": "09",
+    "name": "Dharwad"
+  },
+  {
+    "stateCode": "29",
+    "districtCode": "10",
+    "name": "Uttara Kannada"
+  },
+  {
+    "stateCode": "29",
+    "districtCode": "11",
+    "name": "Haveri *"
+  },
+  {
+    "stateCode": "29",
+    "districtCode": "12",
+    "name": "Bellary"
+  },
+  {
+    "stateCode": "29",
+    "districtCode": "13",
+    "name": "Chitradurga"
+  },
+  {
+    "stateCode": "29",
+    "districtCode": "14",
+    "name": "Davanagere*"
+  },
+  {
+    "stateCode": "29",
+    "districtCode": "15",
+    "name": "Shimoga"
+  },
+  {
+    "stateCode": "29",
+    "districtCode": "16",
+    "name": "Udupi *"
+  },
+  {
+    "stateCode": "29",
+    "districtCode": "17",
+    "name": "Chikmagalur"
+  },
+  {
+    "stateCode": "29",
+    "districtCode": "18",
+    "name": "Tumkur"
+  },
+  {
+    "stateCode": "29",
+    "districtCode": "19",
+    "name": "Kolar"
+  },
+  {
+    "stateCode": "29",
+    "districtCode": "20",
+    "name": "Bangalore"
+  },
+  {
+    "stateCode": "29",
+    "districtCode": "21",
+    "name": "Bangalore Rural"
+  },
+  {
+    "stateCode": "29",
+    "districtCode": "22",
+    "name": "Mandya"
+  },
+  {
+    "stateCode": "29",
+    "districtCode": "23",
+    "name": "Hassan"
+  },
+  {
+    "stateCode": "29",
+    "districtCode": "24",
+    "name": "Dakshina Kannada"
+  },
+  {
+    "stateCode": "29",
+    "districtCode": "25",
+    "name": "Kodagu"
+  },
+  {
+    "stateCode": "29",
+    "districtCode": "26",
+    "name": "Mysore"
+  },
+  {
+    "stateCode": "29",
+    "districtCode": "27",
+    "name": "Chamarajanagar*"
+  },
+  {
+    "stateCode": "30",
+    "districtCode": "01",
+    "name": "North Goa "
+  },
+  {
+    "stateCode": "30",
+    "districtCode": "02",
+    "name": "South Goa"
+  },
+  {
+    "stateCode": "31",
+    "districtCode": "01",
+    "name": "Lakshadweep"
+  },
+  {
+    "stateCode": "32",
+    "districtCode": "01",
+    "name": "Kasaragod"
+  },
+  {
+    "stateCode": "32",
+    "districtCode": "02",
+    "name": "Kannur"
+  },
+  {
+    "stateCode": "32",
+    "districtCode": "03",
+    "name": "Wayanad"
+  },
+  {
+    "stateCode": "32",
+    "districtCode": "04",
+    "name": "Kozhikode"
+  },
+  {
+    "stateCode": "32",
+    "districtCode": "05",
+    "name": "Malappuram"
+  },
+  {
+    "stateCode": "32",
+    "districtCode": "06",
+    "name": "Palakkad"
+  },
+  {
+    "stateCode": "32",
+    "districtCode": "07",
+    "name": "Thrissur"
+  },
+  {
+    "stateCode": "32",
+    "districtCode": "08",
+    "name": "Ernakulam"
+  },
+  {
+    "stateCode": "32",
+    "districtCode": "09",
+    "name": "Idukki"
+  },
+  {
+    "stateCode": "32",
+    "districtCode": "10",
+    "name": "Kottayam"
+  },
+  {
+    "stateCode": "32",
+    "districtCode": "11",
+    "name": "Alappuzha"
+  },
+  {
+    "stateCode": "32",
+    "districtCode": "12",
+    "name": "Pathanamthitta"
+  },
+  {
+    "stateCode": "32",
+    "districtCode": "13",
+    "name": "Kollam"
+  },
+  {
+    "stateCode": "32",
+    "districtCode": "14",
+    "name": "Thiruvananthapuram"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "01",
+    "name": "Thiruvallur"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "02",
+    "name": "Chennai"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "03",
+    "name": "Kancheepuram"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "04",
+    "name": "Vellore"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "05",
+    "name": "Dharmapuri"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "06",
+    "name": "Tiruvannamalai"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "07",
+    "name": "Viluppuram"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "08",
+    "name": "Salem"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "09",
+    "name": "Namakkal   *"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "10",
+    "name": "Erode"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "11",
+    "name": "The Nilgiris"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "12",
+    "name": "Coimbatore"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "13",
+    "name": "Dindigul"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "14",
+    "name": "Karur  *"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "15",
+    "name": "Tiruchirappalli"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "16",
+    "name": "Perambalur  *"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "17",
+    "name": "Ariyalur  *"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "18",
+    "name": "Cuddalore"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "19",
+    "name": "Nagapattinam  *"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "20",
+    "name": "Thiruvarur"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "21",
+    "name": "Thanjavur"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "22",
+    "name": "Pudukkottai"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "23",
+    "name": "Sivaganga"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "24",
+    "name": "Madurai"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "25",
+    "name": "Theni  *"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "26",
+    "name": "Virudhunagar"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "27",
+    "name": "Ramanathapuram"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "28",
+    "name": "Thoothukkudi"
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "29",
+    "name": "Tirunelveli "
+  },
+  {
+    "stateCode": "33",
+    "districtCode": "30",
+    "name": "Kanniyakumari"
+  },
+  {
+    "stateCode": "34",
+    "districtCode": "01",
+    "name": "Yanam"
+  },
+  {
+    "stateCode": "34",
+    "districtCode": "02",
+    "name": "Pondicherry"
+  },
+  {
+    "stateCode": "34",
+    "districtCode": "03",
+    "name": "Mahe"
+  },
+  {
+    "stateCode": "34",
+    "districtCode": "04",
+    "name": "Karaikal"
+  },
+  {
+    "stateCode": "35",
+    "districtCode": "01",
+    "name": "Andamans"
+  },
+  {
+    "stateCode": "35",
+    "districtCode": "02",
+    "name": "Nicobars"
+  }
+]

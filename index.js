@@ -53,16 +53,21 @@ for (let i = 1; i <= 35; i++) {
   states.push(state)
 }
 
-fs.writeFile('./states.json', JSON.stringify(states), 'utf8', function (err) {
-  if (err) {
-    console.log('An error occured while writing JSON Object to File.')
-    return console.log(err)
+fs.writeFile(
+  './JSON/minified/states.json',
+  JSON.stringify(states),
+  'utf8',
+  function (err) {
+    if (err) {
+      console.log('An error occured while writing JSON Object to File.')
+      return console.log(err)
+    }
+    console.log('JSON file has been saved.')
   }
-  console.log('JSON file has been saved.')
-})
+)
 
 fs.writeFile(
-  './districts.json',
+  './JSON/minified/districts.json',
   JSON.stringify(districts),
   'utf8',
   function (err) {
@@ -74,10 +79,15 @@ fs.writeFile(
   }
 )
 
-fs.writeFile('./tehsils.json', JSON.stringify(tehsils), 'utf8', function (err) {
-  if (err) {
-    console.log('An error occured while writing JSON Object to File.')
-    return console.log(err)
+fs.writeFile(
+  './JSON/minified/tehsils.json',
+  JSON.stringify(tehsils),
+  'utf8',
+  function (err) {
+    if (err) {
+      console.log('An error occured while writing JSON Object to File.')
+      return console.log(err)
+    }
+    console.log('JSON file has been saved.')
   }
-  console.log('JSON file has been saved.')
-})
+)
